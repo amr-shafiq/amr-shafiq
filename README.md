@@ -35,7 +35,7 @@
 
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -45,7 +45,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-shafiq&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ### My opinion
