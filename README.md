@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Zuhayer Siddique 👋</h1>
-<h3 align="center">🚀 Final Year Software Engineering Student @UTM | Passionate Full Stack Developer</h3>
+<h1 align="center">Hi there, I'm Amirul Shafiq Bin Amirrullah 👋</h1>
+<h3 align="center">Fresh graduate student from Computer Graphics Student @UTM </h3>
 
 <p align="center">
   <a href="https://zuhu.dev" target="_blank"><img src="https://img.shields.io/badge/🌐 Website-zuhu.dev-blue?style=flat-square" /></a>
-  <a href="mailto:zuhayersiddique162@gmail.com"><img src="https://img.shields.io/badge/📫 Email-zuhayersiddique162@gmail.com-critical?style=flat-square" /></a>
+  <a href="mailto:amirulshafiq260700@gmail.com"><img src="https://img.shields.io/badge/📫 Email-amirulshafiq260700@gmail.com-critical?style=flat-square" /></a>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Graduated at **Universiti Teknologi Malaysia**
-- 📬 Reach me anytime: [zuhayersiddique162@gmail.com](mailto:zuhayersiddique162@gmail.com)
+- 📬 Reach me anytime: [amirulshafiq260700@gmail.com](mailto:amirulshafiq260700@gmail.com)
 
 ---
 
