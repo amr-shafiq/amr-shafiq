@@ -2,7 +2,6 @@
 <h3 align="center">Fresh graduate student from Computer Graphics Student @UTM </h3>
 
 <p align="center">
-  <a href="https://zuhu.dev" target="_blank"><img src="https://img.shields.io/badge/🌐 Website-zuhu.dev-blue?style=flat-square" /></a>
   <a href="mailto:amirulshafiq260700@gmail.com"><img src="https://img.shields.io/badge/📫 Email-amirulshafiq260700@gmail.com-critical?style=flat-square" /></a>
 </p>
 
